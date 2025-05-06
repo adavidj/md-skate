@@ -483,6 +483,8 @@ footer .copyright .text {
         
     }
 
+    
+
     main .about .images img {
         width: 90%;
         padding: 1em;
@@ -492,5 +494,15 @@ footer .copyright .text {
     main .shop .container-text img {
         display: none;
         z-index: 2;
+    }
+
+    main .shop .container-text .text h1{
+        font-size: 4em;
+        text-align: center;
+        margin-left: 1em;
+    }
+
+    main .shop .container-text .text img {
+        
     }
 }
